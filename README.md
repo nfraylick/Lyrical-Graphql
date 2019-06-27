@@ -1,0 +1,2 @@
+# Lyrical-Graphql
+Lyric App
